@@ -1,0 +1,10 @@
+# test and coverage artifacts
+.pytest_cache/*
+.coverage
+htmlcov/*
+
+# build artifacts
+lambda.zip
+
+# IDE artifacts
+.vscode/*

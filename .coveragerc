@@ -1,0 +1,3 @@
+[run]
+source = lambdas
+omit = test_*.py
